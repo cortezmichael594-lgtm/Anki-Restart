@@ -10,7 +10,7 @@ Ever crash-tested your patience waiting for Anki to reboot after a sync hiccup o
 * 🌍 **Interface translated** into dozens of languages, following Anki's own language setting
 
 ### HOW TO USE
-<hr style="height: 1px; border: none; background-color: #e1e4e8;">
+<hr style="height: 0.5px; border: none; background-color: #e1e4e8;">
 1. Install the add-on and restart Anki once.
 2. Press **Ctrl+R** anytime to restart Anki, or **Ctrl+W** to close it.
 3. Open the config screen to change either shortcut or disable one of them.
