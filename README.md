@@ -8,6 +8,7 @@ Ever crash-tested your patience waiting for Anki to reboot after a sync hiccup o
 * 🌍 **Interface translated** into dozens of languages, following Anki's own language setting
 
 ### HOW TO USE
+---
 
 1. Install the add-on and restart Anki once.
 2. Press **Ctrl+R** anytime to restart Anki, or **Ctrl+W** to close it.
