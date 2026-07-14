@@ -24,4 +24,3 @@ Tested on the latest Anki release on Windows; should work the same on macOS and 
 
 ## License
 AGPLv3 — see LICENSE file
-
