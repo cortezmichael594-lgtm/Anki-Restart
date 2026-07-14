@@ -1,0 +1,9 @@
+{
+    "restart_enabled": true,
+    "restart_shortcut": "Ctrl+R",
+    "close_enabled": true,
+    "close_shortcut": "Ctrl+W",
+    "_meta": {
+        "welcome_shown": false
+    }
+}
